@@ -1,0 +1,17 @@
+.f-left{
+    float:left;
+}
+.font-time{
+    font-family: 'Times New Roman', Times, serif;
+}
+.font-georgia{
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.bg-orange{
+    background-color: #F19666;
+    color:whitesmoke
+    
+}
+.w-40{
+    width: 40%;
+}
